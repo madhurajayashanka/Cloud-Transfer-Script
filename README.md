@@ -1,7 +1,7 @@
 
 # Cloud Transfer Tool - Colab Notebook
 
-Transfer files between different cloud services without downloading to your PC. This Colab notebook uses Python for HTTP requests, supports authentication, and displays progress bars. Saves on internet charges by streaming transfers in chunks.
+Transfer files between different cloud services (up to 80 GB) without downloading to your PC. This Colab notebook uses Python for HTTP requests, supports authentication, and displays progress bars. Saves on internet charges by streaming transfers in chunks.
 
 ## Usage
 
@@ -37,4 +37,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 
-Created by <img src="https://avatars.githubusercontent.com/u/77890309?v=4" alt="Madhura Jayashanka" style="border-radius: 50%;" width="20" height="20">[Madhura Jayashanka](https://github.com/madhurajayashanka)
+Created by <img src="https://avatars.githubusercontent.com/u/77890309?v=4" alt="Madhura Jayashanka" style="border-radius: 100%;" width="50" height="50">[Madhura Jayashanka](https://github.com/madhurajayashanka)
