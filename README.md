@@ -31,6 +31,8 @@ Transfer files between different cloud services (up to 80 GB) without downloadin
 
 3. Follow the instructions in the notebook to set up and run the cloud transfer tool.
 
+### More instructions on [Medium Article](https://medium.com/@madhurajayashanka/automate-cloud-file-transfers-with-google-colab-3800dab4f8fa)
+
 ## Contributions
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
